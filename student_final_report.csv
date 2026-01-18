@@ -1,0 +1,11 @@
+student_id,name,gender,subject,marks,attendance,study_hours,performance
+1,Aarav,Male,Math,78,85,2.5,Good
+2,Diya,Female,Math,88,92,3.5,Excellent
+3,Rohan,Male,Science,65,70,1.5,Needs Improvement
+4,Ananya,Female,Science,91,95,4.0,Excellent
+5,Kunal,Male,English,72,80,2.0,Good
+6,Priya,Female,English,85,90,3.0,Excellent
+7,Arjun,Male,Math,60,65,1.0,Needs Improvement
+8,Neha,Female,Science,89,93,3.8,Excellent
+9,Vikram,Male,English,68,75,1.8,Needs Improvement
+10,Isha,Female,Math,94,98,4.5,Excellent
